@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 05078965409ae044c8d77004d0f6d97b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DamageUI: {fileID: 5666170471261753392, guid: 366e6eff9d41fc74380e224ffdf69772, type: 3}
+  - rigidBody2D: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

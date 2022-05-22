@@ -1,0 +1,21 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "フォルダー 1 のコピー"
+		},
+		{
+			"Id": "Part2",
+			"Name": "フォルダー 1"
+		}
+	]
+}
