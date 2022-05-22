@@ -1,0 +1,57 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "左手開閉"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "右手開閉"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "＞＜表情"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "戦う表情"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "パンチ"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "歩く"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "剣を振る"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "ジャンプ"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "のぼる"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "キャラ"
+		}
+	]
+}
