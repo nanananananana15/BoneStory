@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - playerGauge
+  - ZombieGauge
+  - Hand
+  - rock
+  - Ladder
+  - 100Damage
+  - item
+  - Sword
+  - tree
+  - EnemyGauge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ladder
+  - Water
+  - UI
+  - TileMapNavMesh
+  - equip
+  - player
+  - stage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForPlayer
+    uniqueID: 2635429091
+    locked: 0
+  - name: Equip
+    uniqueID: 4051823405
+    locked: 0
