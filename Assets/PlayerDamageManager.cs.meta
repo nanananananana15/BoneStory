@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4209cdf2a031ecc4cb479427943b10fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HP_text: {instanceID: 0}
+  - HPtext: {instanceID: 0}
+  - BoneChara: {fileID: -8653719598885068355, guid: c326d7d8a5b85634f82045e18937646a, type: 3}
+  - PlayerGage: {fileID: -8653719598885068355, guid: b418c387e7862da4c951ec4f930be829, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
