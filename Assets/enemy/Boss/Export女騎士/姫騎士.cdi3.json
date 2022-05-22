@@ -1,0 +1,51 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "剣を振る"
+		},
+		{
+			"Id": "LeftEye",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "RightEye",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "Damage",
+			"GroupId": "",
+			"Name": "うつむく"
+		},
+		{
+			"Id": "Foots",
+			"GroupId": "",
+			"Name": "足"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "騎士"
+		},
+		{
+			"Id": "Part2",
+			"Name": "目"
+		}
+	]
+}
